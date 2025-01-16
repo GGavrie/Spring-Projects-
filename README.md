@@ -17,7 +17,7 @@ To get started with this repository:
 3. Make changes as needed
 
 ## Author
-[Gavrie Grant] 
+Gavrie Grant 
 
 ## License
 This project is open-sourced under the MIT License - see the LICENSE file for details.
